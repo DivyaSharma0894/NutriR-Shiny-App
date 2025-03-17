@@ -12,7 +12,7 @@
 -   **User Authentication:** Securely log in using Google OAuth to access your personalized data.
 
 ## Screenshots
-[![image](https://github.com/user-attachments/assets/e0f9ae95-91ad-4816-a708-a956a5810870)](https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/c56b677bbec755983e425d96e84f68ded05952f5/Screenshot%202025-03-17%20214000.png)
+!(https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/c56b677bbec755983e425d96e84f68ded05952f5/Screenshot%202025-03-17%20214000.png)
 
 ## Getting Started
 
