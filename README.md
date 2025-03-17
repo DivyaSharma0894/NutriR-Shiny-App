@@ -12,7 +12,8 @@
 -   **User Authentication:** Securely log in using Google OAuth to access your personalized data.
 
 ## Screenshots
-##PowerBi Desktop
+![image](https://github.com/user-attachments/assets/e0f9ae95-91ad-4816-a708-a956a5810870)
+
 ## Getting Started
 
 ### Prerequisites
