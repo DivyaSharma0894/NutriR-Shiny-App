@@ -12,8 +12,11 @@
 -   **User Authentication:** Securely log in using Google OAuth to access your personalized data.
 
 ## Screenshots
-!(https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/c56b677bbec755983e425d96e84f68ded05952f5/Screenshot%202025-03-17%20214000.png)
+![](https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/8b40e044d76c4dbb27b6b6ff88e8b7f52ef10ad0/Screenshot%202025-03-17%20214000.png)
+![](https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/8b40e044d76c4dbb27b6b6ff88e8b7f52ef10ad0/Screenshot%202025-03-17%20214012.png)
 
+## PowerBi Desktop
+![](https://github.com/DivyaSharma0894/NutriR-Shiny-App/blob/8b40e044d76c4dbb27b6b6ff88e8b7f52ef10ad0/bc8d1fc2-7b72-4d87-85c0-de4be9bbfd96.jpg)
 ## Getting Started
 
 ### Prerequisites
